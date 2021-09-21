@@ -1,0 +1,164 @@
+#my-img{
+  margin-top: 15px;
+  height:50px;
+  width: 50px;
+  border-radius: 50px;
+  left: 20px;
+  
+}
+
+body{
+  background-color: #effcef;
+  text-align: center;
+  
+}
+p {
+  color: #8f8f8f;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 10%;
+}
+
+/* Containers */
+
+/* colors */
+
+.colored{
+  background-color: #dff6f0;
+}
+
+/* colors */
+
+/* title */
+
+  /* navbar */
+  .navbar {
+    padding: 0 0 2.5rem;
+  }
+
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #745c97;
+  }
+
+  .nav-item {
+    padding: 0 18px;
+  }
+
+  /* title intro */
+  h1.name{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    line-height: 2;
+    color: #0c093c;
+  }
+
+  p.name{
+    color: #003f5c;
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+  }
+
+
+.title{
+  height: 550px;
+}
+
+/* title */
+
+
+/* Headings */
+
+/* Skills */
+
+.skills-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.skills-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+#skills {
+  padding: 120px;
+}
+
+.skills-column {
+  padding: 3% 2%;
+}
+
+.skills-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+/* skills */
+
+/* Projects */
+#tprojects {
+  background-color: #ef8172;
+}
+
+.projects-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.projects-img {
+  width: 25%;
+  border-radius: 100%;
+  margin: 20px;
+}
+/* Projects */
+
+/* About */
+#about {
+  position: relative;
+}
+
+.about-title {
+  font-size: 1.5rem;
+}
+
+.about-box {
+  padding: 4.5%;
+}
+
+.about-img {
+  width: 75%;
+}
+/* About */
+
+/* footer */
+.social-icon {
+  color: #ef8172;
+  margin: 0 10px;
+}
+
+.social-icon:hover {
+  color: #ff4c68;
+}
+/* footer */
+
+/* contact */
+.contact-img {
+  width: 100px;
+  height: 100px;
+}
+
+.contact-title {
+  font-size: 1.5rem;
+}
+
+.contact-box {
+  padding: 4.5%;
+}
+
+/* contact */

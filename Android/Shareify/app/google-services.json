@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753846738797",
+    "firebase_url": "https://shareify-66b95.firebaseio.com",
+    "project_id": "shareify-66b95",
+    "storage_bucket": "shareify-66b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753846738797:android:c3cf39ab3f4ea82c458464",
+        "android_client_info": {
+          "package_name": "com.bhushxxx.shareify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753846738797-cff7vt1j1cq8o1nu3944200kt0ei95c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhushxxx.shareify",
+            "certificate_hash": "73b7a786624581c42046e2aee0dea7ff90266c0b"
+          }
+        },
+        {
+          "client_id": "753846738797-mskr0n2jva92rudfgmqrpdit8p849adv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQIGojkwwhYUUUhIB4wv-C-QUgjIwgKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753846738797-mskr0n2jva92rudfgmqrpdit8p849adv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

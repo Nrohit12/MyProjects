@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  background-color: #ecdfc8;
+}
+
+#level-title {
+  font-size: 5rem;
+  font-family: 'Faster One', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #192965;
+}
+
+
+footer {
+  margin:  5%;
+  color: #1b262c;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #ffbbcc;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.br12 {
+  background-color: #192965;
+}
+
+.br11 {
+  background-color: #f0134d;
+}
+
+.br21 {
+  background-color: #2d132c;
+}
+
+.br22 {
+  background-color: #f8b400;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}

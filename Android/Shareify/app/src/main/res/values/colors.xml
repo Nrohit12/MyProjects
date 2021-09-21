@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#594691</color>
+    <color name="colorPrimaryDark">#3e2d70</color>
+    <color name="bgBackSideColor">#f4f0ff</color>
+    <color name="bgTitleLeft">#594691</color>
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="bgContentTop">#594691</color>
+    <color name="bgContent">#ffffff</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="contentBadgeTitle">#a9a9a9</color>
+    <color name="titleBadgeTitle">#adafb1</color>
+    <color name="titleBadgeText">#adafb1</color>
+    <color name="mainTextColor">#343d43</color>
+    <color name="btnRequest">#ffbf12</color>
+    <color name="btnColor">#8E41DF</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="stratBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+
+
+    <color name="default_color">#2196F3</color>
+    <color name="default_color_dark">#52a6b8</color>
+    <color name="color_red">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#FF5E5B94</color>
+    <color name="tabbar_main">#3e2d70</color>
+    <color name="tabbar_secondly">#3e2d70</color>
+
+
+
+</resources>

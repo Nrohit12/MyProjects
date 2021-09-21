@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    color: #363434; 
+}
+
+img.my-img {
+    height:200px;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.intro{
+    background-image: url("cover.svg");
+    height: 350px;
+    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size:cover;  
+    background-attachment: fixed;
+    
+}
+
+
+
+h1.name{
+    margin: 0px;
+    padding-top: 100px;
+    font-family: 'Patua One', cursive;
+    font-size: 4rem;
+    line-height: 2;
+    color: #ecfcff;
+}
+
+p.name{
+    margin: 0;
+    color: #323232;
+    font-family: 'Lalezar', cursive;
+    font-size: 2rem;
+}
+
+
+
+.content{
+    margin: 100px auto;
+}
+
+
+
+.about-body{
+    margin: 20px 20px;
+    padding: 20px;
+    border-color: #363434;
+    border-style: solid;
+    border-width: 2px 5px;
+    border-radius: 8px;
+    border-top-style: ridge;
+    box-shadow: 0 9px 0px 0px whitesmoke, 0 -9px 0px 0px whitesmoke,12px 0 15px -4px grey, -12px 0 15px -4px grey;
+    
+}
+
+#div {
+  
+    height: 0px;
+    overflow: hidden;
+    transition: height 2s;
+    -moz-transition: height 2s;
+    -webkit-transition: height 2s;
+    -o-transition: height 2s;
+  }
+  
+  a.showLink,
+  a.hideLink {
+    text-decoration: none; 
+  }
+  
+  
+  
+
+
+h2.about{
+    margin: 20px 20px;
+    padding-bottom: 10px;
+    padding-top: 4rem;
+    font-size: 3rem;
+}
+
+.about-text{
+    font-family: 'Changa', sans-serif;
+    margin: auto; 
+    font-size: 2rem;
+    display: -webkit-box;
+    
+}
+
+
+.posts-body{
+    text-align: left;
+    margin: 20px 20px;
+    padding: 20px;
+    border-color: #363434;
+    border-style: solid;
+    border-width: 2px 5px;
+    border-radius: 8px;
+    box-shadow: 0 9px 0px 0px whitesmoke, 0 -9px 0px 0px whitesmoke,12px 0 15px -4px grey, -12px 0 15px -4px grey;
+}
+
+h2.posts{
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 3rem;
+}
+
+
+.posts-text{
+    display: inline-block;
+    font-family: 'Lalezar', cursive;
+    
+    font-size: 2rem;
+    
+}
+
+.posts-row{
+    display: flex;
+    padding: 1rem;
+}
+
+.posts-img{
+    margin-left: 7rem;
+}
+
+
+@media screen and (min-width:750px){
+    img.posts-img {
+        height:200px;
+        width: 200px;
+    }
+}
+@media screen and (max-width:750px){
+    img.posts-img {
+        height:150px;
+        width: 100px;
+    }
+}
+
+  
